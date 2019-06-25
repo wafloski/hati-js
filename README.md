@@ -1,7 +1,7 @@
 # hati-js
 
 
-you can watch this site there: https://youthful-edison-5ceb4a.netlify.com/
+you can see this site there: https://youthful-edison-5ceb4a.netlify.com/
 
 ## Project setup
 ```
