@@ -1,17 +1,16 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <ShutterSlider interval="3000"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import ShutterSlider from './components/ShutterSlider.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    ShutterSlider
   }
 }
 </script>
